@@ -129,17 +129,17 @@ internationalization content generation[gen](frontend%2Flib%2Fgen)
 
 [screenshot](screenshot)
 
-![AI-Chat-01.png](screenshot%2Fzh%2FAI-Chat-01.png)
+![AI-Chat-01.png](screenshot%2Fen%2FAI-Chat-01.png)
 
-![AI-Translate-01.png](screenshot%2Fzh%2FAI-Translate-01.png)
+![AI-Translate-01.png](screenshot%2Fen%2FAI-Translate-01.png)
 
-![AI-Write-01.png](screenshot%2Fzh%2FAI-Write-01.png)
+![AI-Write-01.png](screenshot%2Fen%2FAI-Write-01.png)
 
-![AI-Document-01.png](screenshot%2Fzh%2FAI-Document-01.png)
+![AI-Document-01.png](screenshot%2Fen%2FAI-Document-01.png)
 
-![AI-Task-01.png](screenshot%2Fzh%2FAI-Task-01.png)
+![AI-Task-01.png](screenshot%2Fen%2FAI-Task-01.png)
 
-![Drawer-Menu-01.png](screenshot%2Fzh%2FDrawer-Menu-01.png)
+![Drawer-Menu-01.png](screenshot%2Fen%2FDrawer-Menu-01.png)
 
 ## Quote Pub Flutter(https://pub.dev/)
 
