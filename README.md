@@ -1,5 +1,7 @@
 # Flutter-ChatGPT
 
+中文文档地址[README_zh.md](README_zh.md)
+
 Based on Flutter Web to realize ChatGPT multi-round chat, translation, Prompt text generation,
 enterprise knowledge base, local document Q&A, functions_call and so on.Page streaming output using
 StreamBuilder Widget implementation, each business module Repository are provided directly connected
