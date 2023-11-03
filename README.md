@@ -70,8 +70,9 @@ widgets and states by functional complexity，
 Specific splitting granularity is handled according to actual business requirements, and local
 refreshes are performed whenever possible，through[go_router][StatefulShellBranch]realize the
 management of the routing state of each page. Pages are printed verbatim using SteamBuilder
-Widget realized，The specific code is as
-follows[message_bot.dart](frontend%2Flib%2Fpages%2Fmessage%2Fmessage_bot.dart)：
+Widget realized，The specific code is as follows
+
+[message_bot.dart](frontend%2Flib%2Fpages%2Fmessage%2Fmessage_bot.dart)：
 
 ```
 ///
@@ -123,7 +124,9 @@ class MessageBotStream extends ConsumerWidget {
 > frontend-assets
 
 Provide business modules using icons and i18n internationalization language configuration, slang
-internationalization content generation[gen](frontend%2Flib%2Fgen)
+internationalization content generation
+
+[i18n gen](frontend%2Flib%2Fgen)
 
 ## Demo Screenshot
 
