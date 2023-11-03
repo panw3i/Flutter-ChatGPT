@@ -61,7 +61,9 @@ web浏览器IndexedDB数据库操作与模型实例
 各模块遵循repository-model-provider-view分包方式，其中各view模块按功能复杂度拆分widgets与states，
 具体拆分粒度按实际业务要求处理，尽可能执行局部刷新，通过[go_router][StatefulShellBranch]实现各页面路由状态管理，
 页面逐字打印采用SteamBuild
-Widget实现，具体代码如下[message_bot.dart](frontend%2Flib%2Fpages%2Fmessage%2Fmessage_bot.dart)：
+Widget实现，具体代码如下
+
+[message_bot.dart](frontend%2Flib%2Fpages%2Fmessage%2Fmessage_bot.dart)：
 
 ```
 ///
@@ -113,7 +115,9 @@ class MessageBotStream extends ConsumerWidget {
 
 > frontend-assets
 
-提供业务模块使用图标与i18n国际化语言配置，slang国际化内容生成[gen](frontend%2Flib%2Fgen)
+提供业务模块使用图标与i18n国际化语言配置，slang国际化内容生成
+
+[i18n gen](frontend%2Flib%2Fgen)
 
 ## 演示效果截图
 
